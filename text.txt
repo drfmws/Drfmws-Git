@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-Git tracks of files.
+Git tracks changes of files.
